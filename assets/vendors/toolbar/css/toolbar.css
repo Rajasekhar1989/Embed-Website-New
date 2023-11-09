@@ -9,6 +9,7 @@
 }
 
 .style-switcher {
+	display: none;
 	font-family: var(--toolbar-font);
 	position: fixed;
 	top: 200px;
